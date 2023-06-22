@@ -1,0 +1,59 @@
+body {width: 75;
+    display: block;
+
+    align-items: center;
+}
+input{
+    width: 100%;
+
+}
+.findarea {
+    width: 50%;
+
+    display: flex;
+    position: relative;
+}
+
+.findarea input {
+    padding-left: 20px;
+    border-radius: 5px;
+    padding-left: 10px;
+    border-radius: 5px;
+    border: 1px solid;
+  
+}
+
+.f1 {
+    display: flex;
+    position: absolute;
+    width: 15px;
+    left: 3px;
+    bottom: 2px;
+
+}
+.cam{background: transparent;
+    border: none;
+    top:1px;
+    right: 0;
+    display: flex;
+    position: absolute;
+}
+.fone{
+    background: transparent;
+    border: none;
+    top:1px;
+    right: 17px;
+    display: flex;
+    position: absolute;
+
+}
+  .kay{
+    background: transparent;
+    border: none;
+    top:1px;
+    right: 30px;
+    display: flex;
+    position: absolute;
+
+  }
+  
